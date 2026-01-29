@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WaRFIlRkMAc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valtr\\OneDrive\\Documents\\Combine\\Level 2 CodeStack Academy\\AllForOne\\AllForOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valtr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\valtr\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\valtr\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.0\\swashbuckle.aspnetcore.swagger.9.0.0.nupkg.sha512",
+    "C:\\Users\\valtr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.0\\swashbuckle.aspnetcore.swaggergen.9.0.0.nupkg.sha512",
+    "C:\\Users\\valtr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.0\\swashbuckle.aspnetcore.swaggerui.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
