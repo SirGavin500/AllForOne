@@ -4,6 +4,6 @@ public class AskQuestionService
 {
     public string Ask(string question)
     {
-        return $"My question to your {question} is no";
+        return $"My answer to your question {question} is no";
     }
 }
